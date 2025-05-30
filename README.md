@@ -120,9 +120,10 @@ python Student_Project.py
 
 🔒 Default Credentials
 ##Email: rijja2310119@ssn.edu.in
-##Password: Rijja
+Password: Rijja
 
 🤝 Contributions
+---
 Feel free to fork the project and submit a pull request with enhancements!
 Follow the standard Git workflow:
 ```bash
@@ -130,7 +131,8 @@ git checkout -b feature/your-feature
 git commit -m "Add your feature"
 git push origin feature/your-feature
 ```
-##📜 License
+📜 License
+---
 This project is open-source and available under the MIT License.
 
 
