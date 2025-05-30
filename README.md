@@ -73,7 +73,7 @@ A modern and intuitive **Tkinter-based Student Management System** built with Py
 ---
 
 ## 📁 Project Structure
-
+<pre>
 student-management-system/
 │
 ├── Student_Project.py # Main application
@@ -86,7 +86,7 @@ student-management-system/
 ├── enroll.png # Enroll visual
 ├── Readme.pdf # Supporting document
 └── README.md # This file
-
+</pre>
 ```bash
 
 ---
